@@ -1,0 +1,54 @@
+[
+    {
+      "name": "Documents",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Anvsoft",
+          "type": "folder",
+          "children": []
+        },
+        {
+          "name": "Captura",
+          "type": "folder",
+          "children": []
+        },
+        {
+          "name": "ClickCharts",
+          "type": "folder",
+          "children": []
+        },
+        {
+          "name": "Custom Office Templates",
+          "type": "folder",
+          "children": []
+        },
+        {
+          "name": "OneNote Notebooks",
+          "type": "folder",
+          "children": []
+        },
+        {
+          "name": "Sound Recordings",
+          "type": "folder",
+          "children": []
+        },
+        {
+          "name": "Zoom",
+          "type": "folder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pictures",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Gallery",
+      "type": "folder",
+      "children": []
+    }
+  ]
+  
