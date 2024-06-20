@@ -42,7 +42,7 @@ function agregar() {
         </option>
       </select>
     </div>
-    <button @click="agregar"
+    <button @click="agregar(),cont+=1"
       class="rounded-lg bg-purple-600 hover:bg-white hover:text-red-700 text-white h-10 font-semibold w-36 p-1 text-center">
       Agregar Turno
     </button>
